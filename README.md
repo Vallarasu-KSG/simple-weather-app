@@ -52,6 +52,12 @@ This **Weather App** helps you quickly and easily get real-time weather informat
 
 ---
 
+## 📌 Live Demo
+
+> *(Optional: Add your live site link here if deployed)*
+
+---
+
 ## 📝 Note
 
 To use this app, you must have an API key from OpenWeatherMap. Replace `YOUR_API_KEY` in your JS file with your actual API key.
