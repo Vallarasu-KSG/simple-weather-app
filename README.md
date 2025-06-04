@@ -27,7 +27,7 @@ A clean and simple weather app built using **HTML, CSS, and JavaScript**. This a
 ## 📸 Screenshot
 
 > *(Add your screenshot here)*  
-You can take a screenshot of your live site and upload it with this filename: `screenshot.png` and use this markdown:
+You can take a screenshot of your live site and upload it with this filename: `images/Weather_Screenshot.JPG` and use this markdown:
 
 ```markdown
-![App Screenshot](screenshot.png)
+![App Screenshot](images/Weather_Screenshot.JPG)
